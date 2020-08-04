@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../readme"
+		},
+		{
+			"path": "../../deliverable/node_modules_practice"
 		}
 	],
 	"settings": {}
